@@ -6,3 +6,4 @@ client/.gitignore
 server/.gitignore
 server/node_modules
 client/node_modules
+.gitignore
